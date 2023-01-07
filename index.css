@@ -116,7 +116,7 @@
     top: 2050px;
     border-radius: 8px;
     background-image: 
-    url("/images/watch.png"),url("/images/gradient3.png");
+    url("images/watch.png"),url("images/gradient3.png");
     background-blend-mode:multiply;
     background-repeat: no-repeat;
 }
